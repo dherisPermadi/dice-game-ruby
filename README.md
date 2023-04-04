@@ -5,4 +5,4 @@
 
 # Run The App
   - open the directory folder through the console
-  - run ```ruby dice_game.rb```
+  - run ```ruby lib/dice_game.rb```
